@@ -1,0 +1,159 @@
+{
+    "questId": "f46894f4-f946-44d6-bf41-0971545de22e",
+    "userId": "sunil28071987",
+    "questions": [
+      {
+        "questionId": "1",
+        "rank:" 1
+        "questionType": "INPUT",
+        "questionText": "What is the volume, in cubic centimeters, of a right right rectangular prism that has a length of 4 centimeters, a width of 9 centimeters and a height of 10 centimeters?",
+        "options": [{
+            "optionId": "1",
+            "optionText": "360",
+            "isCorrectAnswer": true,
+            "explaination": "The volume V of a right rectangular prism is given by the formula: V = l × w × h where: l = length of the prism, w = width of the prism, h = height of the prism.",
+            "hasImage": false,
+            "imageURL": [],
+            "percentileSelected": 21.3
+        }],
+        "percentileCorrectAns": 33.5,
+        "strategies": [{
+            "strategyTitle": "Volume of a Right Rectangular Prism",
+            "strategy": {
+                "steps": [{
+                        "stepNumber": 1,
+                        "stepTitle": "Understand the Formula",
+                        "explanation": "The volume V of a right rectangular prism is given by the formula: V = l × w × h where: l = length of the prism, w = width of the prism, h = height of the prism."
+                    },
+                    {
+                        "stepNumber": 2,
+                        "stepTitle": "Extract Information from the Problem",
+                        "explanation": "Read the problem carefully and identify the values of length l, width w, and height h of the prism."
+                    },
+                    {
+                        "stepNumber": 3,
+                        "stepTitle": "Plug in the Values",
+                        "explanation": "Substitute the values of l, w, and h into the formula."
+                    },
+                    {
+                        "stepNumber": 4,
+                        "stepTitle": "Perform the Calculation",
+                        "explanation": "Multiply the three values together to get the volume."
+                    },
+                    {
+                        "stepNumber": 5,
+                        "stepTitle": "State the Answer",
+                        "explanation": "Always express the answer in the required unit."
+                    },
+                    {
+                        "stepNumber": 6,
+                        "stepTitle": "Review",
+                        "explanation": "Quickly check if you've used the right values and formula. Also, ensure that your answer seems reasonable in the context of the problem."
+                    }
+                ],
+                "note": "Always remember to read the problem carefully and ensure you understand what's being asked before jumping into calculations. Some problems may contain extra information or may phrase things differently to test understanding."
+            },
+            "rank": 1
+        }],
+        "hints": [{
+            "hintTitle": "Hints",
+            "hint": [{
+                    "level": 1,
+                    "hint": "Remember the basic properties of a right rectangular prism. It has three distinct dimensions: length, width, and height."
+                },
+                {
+                    "level": 2,
+                    "hint": "The volume of any 3D shape is a measure of the amount of space it occupies. For a right rectangular prism, the volume can be found by considering how many 1 cm³ blocks can fit inside it."
+                },
+                {
+                    "level": 3,
+                    "hint": "To determine the volume of a right rectangular prism, you can use a specific formula that involves multiplying its three dimensions together."
+                },
+                {
+                    "level": 4,
+                    "hint": "Use the formula V = l × w × h, where l is the length, w is the width, and h is the height. Substituting in the provided values will give you the volume."
+                },
+                {
+                    "level": 5,
+                    "hint": "Now, simply multiply 4 cm (length) by 9 cm (width) and then multiply the result by 10 cm (height) to find the volume in cubic centimeters."
+                }
+            ],
+            "rank": 1
+        }],
+        "topicTags": ["Geometry", "Volume"],
+        "subject": "Math",
+        "difficultyLevel": "HARD",
+        "hasImage": false,
+        "imageURL": [],
+        "timeRequired": 90
+    },
+      {
+        "questionId": "2",
+        "rank": 2
+        "questionType": "SINGLE_SELECT",
+        "questionText": "What is the 2 + 3?",
+        "options": [{
+            "optionId": "1",
+            "optionText": "5",
+            "isCorrectAnswer": true,
+            "explaination": "Simple Laws of Addition",
+            "hasImage": false,
+            "imageURL": [],
+            "percentileSelected": 20
+        }, {
+            "optionId": "1",
+            "optionText": "6",
+            "isCorrectAnswer": false,
+            "explaination": "Does not follow simple laws of addition",
+            "hasImage": false,
+            "imageURL": [],
+            "percentileSelected": 20
+        }, {
+            "optionId": "1",
+            "optionText": "4",
+            "isCorrectAnswer": false,
+            "explaination": "Does not follow simple laws of addition",
+            "hasImage": false,
+            "imageURL": [],
+            "percentileSelected": 20
+        }, {
+            "optionId": "1",
+            "optionText": "3",
+            "isCorrectAnswer": false,
+            "explaination": "Does not follow simple laws of addition",
+            "hasImage": false,
+            "imageURL": [],
+            "percentileSelected": 20
+        }],
+        "percentileCorrectAns": 33.5,
+        "strategies": [{
+            "strategyTitle": "Volume of a Right Rectangular Prism",
+            "strategy": {
+                "steps": [{
+                        "stepNumber": 1,
+                        "stepTitle": "Understand the Addition",
+                        "explanation": "2 + 3 = 5"
+                    }
+                ],
+                "note": "Always remember to read the problem carefully and ensure you understand what's being asked before jumping into calculations. Some problems may contain extra information or may phrase things differently to test understanding."
+            },
+            "rank": 1
+        }],
+        "hints": [{
+            "hintTitle": "Hints",
+            "hint": [{
+                    "level": 1,
+                    "hint": "Remember the basic properties addition."
+                }
+            ],
+            "rank": 1,
+            "note": "Always remember to read the problem carefully and ensure you understand what's being asked before jumping into calculations. Some problems may contain extra information or may phrase things differently to test understanding."
+        }],
+        "topicTags": ["Algebra", "Addition"],
+        "subject": "Math",
+        "difficultyLevel": "EASY",
+        "hasImage": false,
+        "imageURL": [],
+        "timeRequired": 60
+    }]
+}
