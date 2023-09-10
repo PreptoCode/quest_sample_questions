@@ -10,7 +10,7 @@
 				"optionId": "1",
 				"optionText": "360",
 				"isCorrectAnswer": true,
-				"explaination": "The volume V of a right rectangular prism is given by the formula: V = l × w × h where: l = length of the prism, w = width of the prism, h = height of the prism.",
+				"explanation": "The volume V of a right rectangular prism is given by the formula: V = l × w × h where: l = length of the prism, w = width of the prism, h = height of the prism.",
 				"hasImage": false,
 				"imageURLs": [],
 				"percentageSelected": 21.3
@@ -39,7 +39,7 @@
 				"optionId": "1",
 				"optionText": "5",
 				"isCorrectAnswer": true,
-				"explaination": "Simple Laws of Addition",
+				"explanation": "Simple Laws of Addition",
 				"hasImage": false,
 				"imageURLs": [],
 				"percentageSelected": 20
@@ -47,7 +47,7 @@
 				"optionId": "1",
 				"optionText": "6",
 				"isCorrectAnswer": false,
-				"explaination": "Does not follow simple laws of addition",
+				"explanation": "Does not follow simple laws of addition",
 				"hasImage": false,
 				"imageURLs": [],
 				"percentageSelected": 20
@@ -55,7 +55,7 @@
 				"optionId": "1",
 				"optionText": "4",
 				"isCorrectAnswer": false,
-				"explaination": "Does not follow simple laws of addition",
+				"explanation": "Does not follow simple laws of addition",
 				"hasImage": false,
 				"imageURLs": [],
 				"percentageSelected": 20
@@ -63,7 +63,7 @@
 				"optionId": "1",
 				"optionText": "3",
 				"isCorrectAnswer": false,
-				"explaination": "Does not follow simple laws of addition",
+				"explanation": "Does not follow simple laws of addition",
 				"hasImage": false,
 				"imageURLs": [],
 				"percentageSelected": 20
