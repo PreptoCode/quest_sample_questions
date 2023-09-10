@@ -27,7 +27,7 @@
 			"subject": "Math",
 			"difficulty": "HARD",
 			"hasImage": false,
-			"imageURL": [],
+			"imageURLs": [],
 			"totalTime": 90,
 			"avgTime": 48
 		},
@@ -75,7 +75,7 @@
 			"subject": "Math",
 			"difficulty": "EASY",
 			"hasImage": false,
-			"imageURL": [],
+			"imageURLs": [],
 			"totalTime": 60,
 			"avgTime": 48
 		}
