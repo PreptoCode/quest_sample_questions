@@ -1,83 +1,323 @@
 {
-	"questId": "f46894f4-f946-44d6-bf41-0971545de22e",
-	"userId": "sunil28071987",
-	"totalTime": 300,
-	"questions": [{
-			"questionId": "1",
-			"questionType": "INPUT",
-			"questionText": "What is the volume, in cubic centimeters, of a right right rectangular prism that has a length of 4 centimeters, a width of 9 centimeters and a height of 10 centimeters?",
-			"options": [{
-				"optionId": "1",
-				"optionText": "360",
-				"isCorrectAnswer": true,
-				"explanation": "The volume V of a right rectangular prism is given by the formula: V = l × w × h where: l = length of the prism, w = width of the prism, h = height of the prism.",
-				"hasImage": false,
-				"imageURLs": [],
-				"percentageSelected": 21.3
-			}],
-			"percentageCorrect": 33.5,
-			"strategies": ["This is a simple strategy."],
-			"hints": ["Remember the basic properties of a right rectangular prism. It has three distinct dimensions: length, width, and height.",
-				"The volume of any 3D shape is a measure of the amount of space it occupies. For a right rectangular prism, the volume can be found by considering how many 1 cm³ blocks can fit inside it.",
-				"To determine the volume of a right rectangular prism, you can use a specific formula that involves multiplying its three dimensions together.",
-				"Use the formula V = l × w × h, where l is the length, w is the width, and h is the height. Substituting in the provided values will give you the volume.",
-				"Now, simply multiply 4 cm (length) by 9 cm (width) and then multiply the result by 10 cm (height) to find the volume in cubic centimeters."
-			],
-			"topicTags": ["Geometry", "Volume"],
-			"subject": "Math",
-			"difficulty": "HARD",
-			"hasImage": false,
-			"imageURLs": [],
-			"totalTime": 90,
-			"avgTime": 48
-		},
-		{
-			"questionId": "2",
-			"questionType": "SINGLE_SELECT",
-			"questionText": "What is the 2 + 3?",
-			"options": [{
-				"optionId": "1",
-				"optionText": "5",
-				"isCorrectAnswer": true,
-				"explanation": "Simple Laws of Addition",
-				"hasImage": false,
-				"imageURLs": [],
-				"percentageSelected": 20
-			}, {
-				"optionId": "2",
-				"optionText": "6",
-				"isCorrectAnswer": false,
-				"explanation": "Does not follow simple laws of addition",
-				"hasImage": false,
-				"imageURLs": [],
-				"percentageSelected": 20
-			}, {
-				"optionId": "3",
-				"optionText": "4",
-				"isCorrectAnswer": false,
-				"explanation": "Does not follow simple laws of addition",
-				"hasImage": false,
-				"imageURLs": [],
-				"percentageSelected": 20
-			}, {
-				"optionId": "4",
-				"optionText": "3",
-				"isCorrectAnswer": false,
-				"explanation": "Does not follow simple laws of addition",
-				"hasImage": false,
-				"imageURLs": [],
-				"percentageSelected": 20
-			}],
-			"percentageCorrect": 33.5,
-			"strategies": ["This is a simple strategy."],
-			"hints": ["Remember the basic properties addition."],
-			"topicTags": ["Algebra", "Addition"],
-			"subject": "Math",
-			"difficulty": "EASY",
-			"hasImage": false,
-			"imageURLs": [],
-			"totalTime": 60,
-			"avgTime": 48
-		}
-	]
+    "questId": "f46894f4-f946-44d6-bf41-0971545de22e",
+    "userId": "sunil28071987",
+    "totalTime": 300,
+    "questions": [
+        {
+            "questionId": "1",
+            "questionType": "SINGLE_SELECT",
+            "questionText": "What is the volume, in cubic centimeters, of a right right rectangular prism that has a length of 4 centimeters, a width of 9 centimeters and a height of 10 centimeters?",
+            "options": [
+                {
+                    "optionId": "A",
+                    "optionText": "360",
+                    "isCorrectAnswer": true,
+                    "explanation": "The volume V of a right rectangular prism is given by the formula: V = l × w × h where: l = length of the prism, w = width of the prism, h = height of the prism.",
+                    "hasImage": false,
+                    "imageURLs": [],
+                    "percentageSelected": 80
+                },
+                {
+                    "optionId": "B",
+                    "optionText": "36",
+                    "isCorrectAnswer": false,
+                    "explanation": "The volume V of a right rectangular prism is given by the formula: V = l × w × h where: l = length of the prism, w = width of the prism, h = height of the prism.",
+                    "hasImage": false,
+                    "imageURLs": [],
+                    "percentageSelected": 5
+                },
+                {
+                    "optionId": "C",
+                    "optionText": "3600",
+                    "isCorrectAnswer": false,
+                    "explanation": "The volume V of a right rectangular prism is given by the formula: V = l × w × h where: l = length of the prism, w = width of the prism, h = height of the prism.",
+                    "hasImage": false,
+                    "imageURLs": [],
+                    "percentageSelected": 10
+                },
+                {
+                    "optionId": "D",
+                    "optionText": "60",
+                    "isCorrectAnswer": false,
+                    "explanation": "The volume V of a right rectangular prism is given by the formula: V = l × w × h where: l = length of the prism, w = width of the prism, h = height of the prism.",
+                    "hasImage": false,
+                    "imageURLs": [],
+                    "percentageSelected": 5
+                }
+            ],
+            "percentageCorrect": 85,
+            "strategies": [
+                "The volume V of a right rectangular prism is given by the formula: V = l × w × h where: l = length of the prism, w = width of the prism, h = height of the prism."
+            ],
+            "hints": [
+                "Remember the basic properties of a right rectangular prism. It has three distinct dimensions: length, width, and height.",
+                "The volume of any 3D shape is a measure of the amount of space it occupies. For a right rectangular prism, the volume can be found by considering how many 1 cm³ blocks can fit inside it.",
+                "To determine the volume of a right rectangular prism, you can use a specific formula that involves multiplying its three dimensions together.",
+                "Use the formula V = l × w × h, where l is the length, w is the width, and h is the height. Substituting in the provided values will give you the volume.",
+                "Now, simply multiply 4 cm (length) by 9 cm (width) and then multiply the result by 10 cm (height) to find the volume in cubic centimeters."
+            ],
+            "topicTags": [
+                "Geometry",
+                "Volume"
+            ],
+            "subject": "Math",
+            "difficulty": "HARD",
+            "hasImage": false,
+            "imageURLs": [],
+            "totalTime": 60,
+            "avgTime": 48
+        },
+        {
+            "questionId": "2",
+            "questionType": "SINGLE_SELECT",
+            "questionText": "Which of the following value of x satisfies the equation 3x - 4 = 2x ?",
+            "options": [
+                {
+                    "optionId": "A",
+                    "optionText": "4",
+                    "isCorrectAnswer": true,
+                    "explanation": "Get all the x terms on one side of the equation.",
+                    "hasImage": false,
+                    "imageURLs": [],
+                    "percentageSelected": 20
+                },
+                {
+                    "optionId": "B",
+                    "optionText": "2",
+                    "isCorrectAnswer": false,
+                    "explanation": "Get all the x terms on one side of the equation.",
+                    "hasImage": false,
+                    "imageURLs": [],
+                    "percentageSelected": 20
+                },
+                {
+                    "optionId": "C",
+                    "optionText": "5",
+                    "isCorrectAnswer": false,
+                    "explanation": "Get all the x terms on one side of the equation.",
+                    "hasImage": false,
+                    "imageURLs": [],
+                    "percentageSelected": 20
+                },
+                {
+                    "optionId": "D",
+                    "optionText": "3",
+                    "isCorrectAnswer": false,
+                    "explanation": "Get all the x terms on one side of the equation.",
+                    "hasImage": false,
+                    "imageURLs": [],
+                    "percentageSelected": 20
+                }
+            ],
+            "percentageCorrect": 80.0,
+            "strategies": [
+                "The primary goal is to find the value of x that makes the equation true and the best way to do this is by getting all the x terms on one side of the equation."
+            ],
+            "hints": [
+                "Start by getting all the x terms on one side of the equation",
+                "Subtract 2x from both sides of the equation to combine like terms.",
+                "After you've combined like terms, isolate  x by moving the constant to the other side.",
+                "Perform the necessary operations (addition or subtraction) to solve for  x."
+            ],
+            "topicTags": [
+                "Algebra",
+                "Addition"
+            ],
+            "subject": "Math",
+            "difficulty": "EASY",
+            "hasImage": false,
+            "imageURLs": [],
+            "totalTime": 60,
+            "avgTime": 40
+        },
+        {
+            "questionId": "3",
+            "questionType": "SINGLE_SELECT",
+            "questionText": "A refrigerator with a price of $1,200 is to be purchased using an installment plan. The buyer makes an initial payment of $200. The remaining amount is to be paid off in equal monthly installments of $100 each. Which of the following equations can be used to find the number of monthly payments, p, required to complete the purchase, assuming there are no additional costs?",
+            "options": [
+                {
+                    "optionId": "A",
+                    "optionText": "1,200 = 100p + 100",
+                    "isCorrectAnswer": false,
+                    "explanation": "Total Cost = Initial Payment + Total from Monthly Payments",
+                    "hasImage": false,
+                    "imageURLs": [],
+                    "percentageSelected": 20
+                },
+                {
+                    "optionId": "B",
+                    "optionText": "1,200 = 100p",
+                    "isCorrectAnswer": false,
+                    "explanation": "Total Cost = Initial Payment + Total from Monthly Payments",
+                    "hasImage": false,
+                    "imageURLs": [],
+                    "percentageSelected": 5
+                },
+                {
+                    "optionId": "C",
+                    "optionText": "1,200 = 100p + 200",
+                    "isCorrectAnswer": true,
+                    "explanation": "Total Cost = Initial Payment + Total from Monthly Payments",
+                    "hasImage": false,
+                    "imageURLs": [],
+                    "percentageSelected": 55
+                },
+                {
+                    "optionId": "D",
+                    "optionText": "1,200 = 200p - 100",
+                    "isCorrectAnswer": false,
+                    "explanation": "Total Cost = Initial Payment + Total from Monthly Payments",
+                    "hasImage": false,
+                    "imageURLs": [],
+                    "percentageSelected": 20
+                }
+            ],
+            "percentageCorrect": 74.0,
+            "strategies": [
+                "The primary goal is to find the value of x that makes the equation true and the best way to do this is by getting all the x terms on one side of the equation."
+            ],
+            "hints": [
+                "Start by getting all the x terms on one side of the equation",
+                "Subtract 2x from both sides of the equation to combine like terms.",
+                "After you've combined like terms, isolate  x by moving the constant to the other side.",
+                "Perform the necessary operations (addition or subtraction) to solve for  x."
+            ],
+            "topicTags": [
+                "Algebra",
+                "Addition"
+            ],
+            "subject": "Math",
+            "difficulty": "EASY",
+            "hasImage": false,
+            "imageURLs": [],
+            "totalTime": 60,
+            "avgTime": 40
+        },
+        {
+            "questionId": "2",
+            "questionType": "SINGLE_SELECT",
+            "questionText": "Which of the following value of x satisfies the equation 3x - 4 = 2x ?",
+            "options": [
+                {
+                    "optionId": "A",
+                    "optionText": "4",
+                    "isCorrectAnswer": true,
+                    "explanation": "Get all the x terms on one side of the equation.",
+                    "hasImage": false,
+                    "imageURLs": [],
+                    "percentageSelected": 20
+                },
+                {
+                    "optionId": "B",
+                    "optionText": "2",
+                    "isCorrectAnswer": false,
+                    "explanation": "Get all the x terms on one side of the equation.",
+                    "hasImage": false,
+                    "imageURLs": [],
+                    "percentageSelected": 20
+                },
+                {
+                    "optionId": "C",
+                    "optionText": "5",
+                    "isCorrectAnswer": false,
+                    "explanation": "Get all the x terms on one side of the equation.",
+                    "hasImage": false,
+                    "imageURLs": [],
+                    "percentageSelected": 20
+                },
+                {
+                    "optionId": "D",
+                    "optionText": "3",
+                    "isCorrectAnswer": false,
+                    "explanation": "Get all the x terms on one side of the equation.",
+                    "hasImage": false,
+                    "imageURLs": [],
+                    "percentageSelected": 20
+                }
+            ],
+            "percentageCorrect": 80,
+            "strategies": [
+                "The primary goal is to find the value of x that makes the equation true and the best way to do this is by getting all the x terms on one side of the equation."
+            ],
+            "hints": [
+                "Start by getting all the x terms on one side of the equation",
+                "Subtract 2x from both sides of the equation to combine like terms.",
+                "After you've combined like terms, isolate  x by moving the constant to the other side.",
+                "Perform the necessary operations (addition or subtraction) to solve for  x."
+            ],
+            "topicTags": [
+                "Algebra",
+                "Addition"
+            ],
+            "subject": "Math",
+            "difficulty": "EASY",
+            "hasImage": false,
+            "imageURLs": [],
+            "totalTime": 60,
+            "avgTime": 40
+        },
+        {
+            "questionId": "2",
+            "questionType": "SINGLE_SELECT",
+            "questionText": "Which of the following value of x satisfies the equation 3x - 4 = 2x ?",
+            "options": [
+                {
+                    "optionId": "A",
+                    "optionText": "4",
+                    "isCorrectAnswer": true,
+                    "explanation": "Get all the x terms on one side of the equation.",
+                    "hasImage": false,
+                    "imageURLs": [],
+                    "percentageSelected": 20
+                },
+                {
+                    "optionId": "B",
+                    "optionText": "2",
+                    "isCorrectAnswer": false,
+                    "explanation": "Get all the x terms on one side of the equation.",
+                    "hasImage": false,
+                    "imageURLs": [],
+                    "percentageSelected": 20
+                },
+                {
+                    "optionId": "C",
+                    "optionText": "5",
+                    "isCorrectAnswer": false,
+                    "explanation": "Get all the x terms on one side of the equation.",
+                    "hasImage": false,
+                    "imageURLs": [],
+                    "percentageSelected": 20
+                },
+                {
+                    "optionId": "D",
+                    "optionText": "3",
+                    "isCorrectAnswer": false,
+                    "explanation": "Get all the x terms on one side of the equation.",
+                    "hasImage": false,
+                    "imageURLs": [],
+                    "percentageSelected": 20
+                }
+            ],
+            "percentageCorrect": 80,
+            "strategies": [
+                "The primary goal is to find the value of x that makes the equation true and the best way to do this is by getting all the x terms on one side of the equation."
+            ],
+            "hints": [
+                "Start by getting all the x terms on one side of the equation",
+                "Subtract 2x from both sides of the equation to combine like terms.",
+                "After you've combined like terms, isolate  x by moving the constant to the other side.",
+                "Perform the necessary operations (addition or subtraction) to solve for  x."
+            ],
+            "topicTags": [
+                "Algebra",
+                "Addition"
+            ],
+            "subject": "Math",
+            "difficulty": "EASY",
+            "hasImage": false,
+            "imageURLs": [],
+            "totalTime": 60,
+            "avgTime": 40
+        }
+    ]
 }
