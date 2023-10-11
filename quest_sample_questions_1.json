@@ -109,7 +109,7 @@
                     "percentageSelected": 20
                 }
             ],
-            "percentageCorrect": 80.0,
+            "percentageCorrect": 80,
             "strategies": [
                 "The primary goal is to find the value of x that makes the equation true and the best way to do this is by getting all the x terms on one side of the equation."
             ],
@@ -172,7 +172,7 @@
                     "percentageSelected": 20
                 }
             ],
-            "percentageCorrect": 74.0,
+            "percentageCorrect": 74,
             "strategies": [
                 "Calculate the remaining amount after initial payment using the generic formula: Total Cost = Initial Payment + Total from Monthly Payments"
             ],
@@ -194,14 +194,14 @@
             "avgTime": 40
         },
         {
-            "questionId": "2",
+            "questionId": "4",
             "questionType": "SINGLE_SELECT",
-            "questionText": "Which of the following value of x satisfies the equation 3x - 4 = 2x ?",
+            "questionText": "For the given equation 4x - 3y = 16 and 2x - y = 9 , what is the value of 2x + 2y ?",
             "options": [
                 {
                     "optionId": "A",
-                    "optionText": "4",
-                    "isCorrectAnswer": true,
+                    "optionText": "14",
+                    "isCorrectAnswer": false,
                     "explanation": "Get all the x terms on one side of the equation.",
                     "hasImage": false,
                     "imageURLs": [],
@@ -209,41 +209,42 @@
                 },
                 {
                     "optionId": "B",
-                    "optionText": "2",
-                    "isCorrectAnswer": false,
+                    "optionText": "15",
+                    "isCorrectAnswer": true,
                     "explanation": "Get all the x terms on one side of the equation.",
                     "hasImage": false,
                     "imageURLs": [],
-                    "percentageSelected": 20
+                    "percentageSelected": 40
                 },
                 {
                     "optionId": "C",
-                    "optionText": "5",
+                    "optionText": "18",
                     "isCorrectAnswer": false,
                     "explanation": "Get all the x terms on one side of the equation.",
                     "hasImage": false,
                     "imageURLs": [],
-                    "percentageSelected": 20
+                    "percentageSelected": 15
                 },
                 {
                     "optionId": "D",
-                    "optionText": "3",
+                    "optionText": "22",
                     "isCorrectAnswer": false,
                     "explanation": "Get all the x terms on one side of the equation.",
                     "hasImage": false,
                     "imageURLs": [],
-                    "percentageSelected": 20
+                    "percentageSelected": 5
                 }
             ],
             "percentageCorrect": 80,
             "strategies": [
-                "The primary goal is to find the value of x that makes the equation true and the best way to do this is by getting all the x terms on one side of the equation."
+                "Examine the Equations. Match Coefficients. Eliminate One Variable. Solve for One Variable. Substitute to Solve for the Second Variable. Compute the Desired Expression."
             ],
             "hints": [
-                "Start by getting all the x terms on one side of the equation",
-                "Subtract 2x from both sides of the equation to combine like terms.",
-                "After you've combined like terms, isolate  x by moving the constant to the other side.",
-                "Perform the necessary operations (addition or subtraction) to solve for  x."
+                "Notice that the coefficient of y in the second equation is -1. If you can get the coefficient of y in the first equation to be -3, then you can use the elimination method to cancel out y.",
+                "Multiply the entire second equation by 3 to get the coefficient of y as -3. This will help in eliminating y when you either add or subtract the two equations.",
+                "Once you have the equations with matching coefficients for y, subtract one equation from the other to eliminate y. This will give you an equation with only x, which you can solve.",
+                "After finding the value of  x, substitute it into one of the original equations to solve for  y.",
+                "Once you have the values of x and y, use them to find the value of  2x+2y."
             ],
             "topicTags": [
                 "Algebra",
@@ -254,10 +255,10 @@
             "hasImage": false,
             "imageURLs": [],
             "totalTime": 60,
-            "avgTime": 40
+            "avgTime": 90
         },
         {
-            "questionId": "2",
+            "questionId": "5",
             "questionType": "SINGLE_SELECT",
             "questionText": "Which of the following value of x satisfies the equation 3x - 4 = 2x ?",
             "options": [
