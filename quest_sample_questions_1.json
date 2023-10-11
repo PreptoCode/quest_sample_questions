@@ -44,7 +44,7 @@
 				"imageURLs": [],
 				"percentageSelected": 20
 			}, {
-				"optionId": "1",
+				"optionId": "2",
 				"optionText": "6",
 				"isCorrectAnswer": false,
 				"explanation": "Does not follow simple laws of addition",
@@ -52,7 +52,7 @@
 				"imageURLs": [],
 				"percentageSelected": 20
 			}, {
-				"optionId": "1",
+				"optionId": "3",
 				"optionText": "4",
 				"isCorrectAnswer": false,
 				"explanation": "Does not follow simple laws of addition",
@@ -60,7 +60,7 @@
 				"imageURLs": [],
 				"percentageSelected": 20
 			}, {
-				"optionId": "1",
+				"optionId": "4",
 				"optionText": "3",
 				"isCorrectAnswer": false,
 				"explanation": "Does not follow simple laws of addition",
