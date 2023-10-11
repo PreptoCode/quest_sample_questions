@@ -16,7 +16,7 @@
 				"percentageSelected": 21.3
 			}],
 			"percentageCorrect": 33.5,
-			"strategy": "This is a simple strategy.",
+			"strategy": ["This is a simple strategy."],
 			"hints": ["Remember the basic properties of a right rectangular prism. It has three distinct dimensions: length, width, and height.",
 				"The volume of any 3D shape is a measure of the amount of space it occupies. For a right rectangular prism, the volume can be found by considering how many 1 cm³ blocks can fit inside it.",
 				"To determine the volume of a right rectangular prism, you can use a specific formula that involves multiplying its three dimensions together.",
@@ -69,7 +69,7 @@
 				"percentageSelected": 20
 			}],
 			"percentageCorrect": 33.5,
-			"strategy": "This is a simple strategy.",
+			"strategy": ["This is a simple strategy."],
 			"hints": ["Remember the basic properties addition."],
 			"topicTags": ["Algebra", "Addition"],
 			"subject": "Math",
