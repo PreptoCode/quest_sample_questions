@@ -174,13 +174,13 @@
             ],
             "percentageCorrect": 74.0,
             "strategies": [
-                "The primary goal is to find the value of x that makes the equation true and the best way to do this is by getting all the x terms on one side of the equation."
+                "Calculate the remaining amount after initial payment using the generic formula: Total Cost = Initial Payment + Total from Monthly Payments"
             ],
             "hints": [
-                "Start by getting all the x terms on one side of the equation",
-                "Subtract 2x from both sides of the equation to combine like terms.",
-                "After you've combined like terms, isolate  x by moving the constant to the other side.",
-                "Perform the necessary operations (addition or subtraction) to solve for  x."
+                "Begin by identifying the total cost of the refrigerator and the amount already paid as the initial payment. Determine the remaining balance that needs to be paid off through monthly installments.",
+                "Represent the total number of monthly payments as p. The total amount from these monthly payments can be represented as 100p since each payment is $100.",
+                "To find the total amount paid including the initial payment and monthly payments, you can set up an equation. The sum of the initial payment and the total from monthly payments should equal the total cost of the refrigerator.",
+                "After setting up the equation, compare it with the provided options to determine which one accurately represents the payment scenario."
             ],
             "topicTags": [
                 "Algebra",
